@@ -1,0 +1,24 @@
+.container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+
+.welcome {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    font-size: 100px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-family: Arial;
+}
+
